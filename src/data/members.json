@@ -28,5 +28,10 @@
         "title": "Joost Plattel",
         "url": "https://jplattel.nl/",
         "feed": "https://jplattel.nl/index.xml"
+    },
+    {
+        "title": "Seirdy's Home",
+        "url": "https://seirdy.one/",
+        "feed": "https://seirdy.one/posts/index.xml"
     }
 ]
