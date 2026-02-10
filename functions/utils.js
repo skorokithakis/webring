@@ -1,7 +1,4 @@
-import { createRequire } from "module"
-
-const require = createRequire(import.meta.url)
-const members = require("../../src/data/members.json")
+import members from "../src/data/members.json"
 
 export const redirect = (site) => {
     const statusMessage = `redirecting to: ${site.url}`

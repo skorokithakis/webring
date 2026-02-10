@@ -34,6 +34,8 @@ export default function (config) {
     })
 
     config.addPassthroughCopy("src/assets/images")
+    config.addPassthroughCopy("src/_headers")
+    config.addPassthroughCopy("src/_routes.json")
 
     return {
         dir: {
