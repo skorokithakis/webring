@@ -1,5 +1,8 @@
 {
   "name": "webring",
   "pages_build_output_dir": "./dist",
-  "compatibility_date": "2026-02-10"
+  "compatibility_date": "2026-02-10",
+  "build": {
+    "command": "npm run build"
+  }
 }
