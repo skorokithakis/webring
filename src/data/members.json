@@ -28,10 +28,5 @@
         "title": "Joost Plattel",
         "url": "https://jplattel.nl/",
         "feed": "https://jplattel.nl/index.xml"
-    },
-    {
-        "title": "The Red Panther",
-        "url": "https://theredpanther.org",
-        "feed": "https://www.theredpanther.org/feed.rss"
     }
 ]
