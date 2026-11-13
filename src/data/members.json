@@ -33,5 +33,10 @@
         "title": "The Red Panther",
         "url": "https://theredpanther.org",
         "feed": "https://www.theredpanther.org/feed.rss"
+    },
+    {
+        "title": "Starbase 430",
+        "url": "https://starbase430.com/",
+        "feed": "https://starbase430.com/feed.xml"
     }
 ]
